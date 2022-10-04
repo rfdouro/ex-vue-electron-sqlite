@@ -1,4 +1,4 @@
-# appcalcirc
+# appelectronsqlite
 
 ## Project setup
 ```
